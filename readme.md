@@ -1,5 +1,4 @@
 
-```markdown
 # AutoStart-Nodejs-Reactjs
 
 This repository contains a setup for auto-starting both the frontend and backend of a project using a single batch file (`start-frontend-backend.bat`). The setup uses `concurrently` to run both the frontend and backend servers simultaneously.
