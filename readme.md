@@ -84,5 +84,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-Make sure to replace `your-username` with your actual GitHub username in the repository URL. This `README.md` file provides a comprehensive guide for users on how to get started with your project, including installation, usage, and contributing guidelines.
